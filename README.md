@@ -12,3 +12,5 @@ You should see failed tests and generated Allure XML files in build/allure-resul
 ## Reference
 
 https://gradle.org/
+https://github.com/gradle/gradle
+
